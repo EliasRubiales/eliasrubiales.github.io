@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Lionel Messi",
+    "nacionalidad": "Argentina",
+    "balones_de_oro": [2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023]
+  },
+  {
+    "nombre": "Cristiano Ronaldo",
+    "nacionalidad": "Portugal",
+    "balones_de_oro": [2008, 2013, 2014, 2016, 2017]
+  },
+  {
+    "nombre": "Luka Modrić",
+    "nacionalidad": "Croacia",
+    "balones_de_oro": [2018]
+  },
+  {
+    "nombre": "Karim Benzema",
+    "nacionalidad": "Francia",
+    "balones_de_oro": [2022]
+  },
+  {
+    "nombre": "Ronaldinho",
+    "nacionalidad": "Brasil",
+    "balones_de_oro": [2005]
+  },
+  {
+    "nombre": "Ronaldo Nazário",
+    "nacionalidad": "Brasil",
+    "balones_de_oro": [1997, 2002]
+  },
+  {
+    "nombre": "Zinedine Zidane",
+    "nacionalidad": "Francia",
+    "balones_de_oro": [1998]
+  }
+]
